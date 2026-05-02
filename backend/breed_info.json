@@ -1,0 +1,56 @@
+{
+  "Golden Retriever": {
+    "origin": "Scotland",
+    "temperament": "Intelligent, Friendly, Reliable, Trustworthy",
+    "life_span": "10-12 years",
+    "care_tips": "Needs regular exercise and grooming. Very social and loves to play fetch."
+  },
+  "German Shepherd": {
+    "origin": "Germany",
+    "temperament": "Confident, Courageous, Smart",
+    "life_span": "9-13 years",
+    "care_tips": "Requires mental and physical stimulation. Highly trainable and loyal."
+  },
+  "Labrador Retriever": {
+    "origin": "United Kingdom, Canada",
+    "temperament": "Outgoing, Even Tempered, Gentle, Agile",
+    "life_span": "10-12 years",
+    "care_tips": "Prone to obesity, needs portion control and plenty of swimming or running."
+  },
+  "Bulldog": {
+    "origin": "England",
+    "temperament": "Docile, Willful, Friendly",
+    "life_span": "8-10 years",
+    "care_tips": "Avoid extreme heat. Needs facial folds cleaned regularly to prevent infections."
+  },
+  "Poodle": {
+    "origin": "France, Germany",
+    "temperament": "Intelligent, Active, Alert",
+    "life_span": "12-15 years",
+    "care_tips": "Requires regular grooming to prevent matting. Very smart, needs engaging toys."
+  },
+  "Siberian Husky": {
+    "origin": "Siberia",
+    "temperament": "Outgoing, Mischievous, Loyal",
+    "life_span": "12-14 years",
+    "care_tips": "High energy breed, needs rigorous exercise. They are escape artists, secure yard needed."
+  },
+  "Pug": {
+    "origin": "China",
+    "temperament": "Charming, Mischievous, Loving",
+    "life_span": "13-15 years",
+    "care_tips": "Prone to breathing issues. Keep cool and avoid strenuous exercise in hot weather."
+  },
+  "Beagle": {
+    "origin": "United Kingdom",
+    "temperament": "Merry, Friendly, Curious",
+    "life_span": "10-15 years",
+    "care_tips": "Follows their nose, always keep on a leash. Prone to ear infections."
+  },
+  "Unknown": {
+    "origin": "Unknown",
+    "temperament": "Varies depending on mix.",
+    "life_span": "Varies",
+    "care_tips": "Provide balanced diet, regular exercise, and lots of love."
+  }
+}
